@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>portfolio project</title>
+<link href="https://fonts.googleapis.com/css?family=Lato:100,300" rel="stylesheet" type="text/css">
+<link href="bootstrap.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+<div class="row">
+<header>
+<div class="col-md-6">
+<img class="title_logo" src="im.jfif" alt="logo">
+</div>
+<div class="col-md-6 text-right text-uppercase">
+<h1 class="title_super">Tamanna</h1>
+<h4>Front End Developer</h4>
+ </div>
+</header>
+</div>
+<div class="row">
+<div class="col-md-12">
+<hr>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<img class="imgstyle img-responsive" src="big1.jpg" alt="big-img">
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<h2 class="text_light">Featured Work</h2>
+</div>
+</div>
+<div class="row text-center" >
+<div class="col-md-4">
+<img class="img-responsive" src="movie1.jpg" alt="movie">
+<h3 class="text-uppercase">Movie Website</h3>
+<a href="https://github.com/TamannaArora/movie_website">Movie Trailors</a>
+</div>
+<div class="col-md-4">
+<img class="img-responsive" src="rs1.jpg" alt="rs">
+<h3 class="text-uppercase">Research Paper</h3>
+<a href="https://www.researchgate.net/publication/307952230_Automatic_Identification_of_Retinal_Vessels_using_Line_Operator_Approach">Research</a>
+</div>
+<div class="col-md-4">
+<img class="img-responsive" src="tm1.jpg" alt="toastmasters">
+<h3 class="text-uppercase">Toastmasters</h3>
+<a href="https://www.toastmasters.org/">Toastmasters</a>
+</div>
+</div>
+</div>
+</body>
+</html>
+

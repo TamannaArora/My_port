@@ -1,0 +1,19 @@
+body {
+font-family:'lato',sans-serif;
+color:black;
+font-weight:300px;
+
+}
+.title_logo {
+margin-top:20px;
+}
+.title_super {
+font-weight:150px;
+font-size:50px;
+}
+.text_light {
+color:#bcbbbb;
+}
+.imgstyle {
+margin-left:38%;
+}
